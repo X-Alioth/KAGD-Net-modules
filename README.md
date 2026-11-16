@@ -1,5 +1,7 @@
 # KAGD-Net Modules
 
+[![Tests](https://github.com/X-Alioth/KAGD-Net-modules/actions/workflows/tests.yml/badge.svg)](https://github.com/X-Alioth/KAGD-Net-modules/actions/workflows/tests.yml)
+
 Reference PyTorch implementations of two operators used in KAGD-Net:
 
 | Module | Purpose | Output shape |
