@@ -112,11 +112,3 @@ KAGD-Net-modules/
 ├── pyproject.toml
 └── requirements.txt
 ```
-
-## Provenance
-
-- `DRConv` corresponds to Equations (4)-(7) and Algorithm 1 described in the KAGD-Net manuscript.
-- `ARSample` follows Section 3.4 of the manuscript.
-- `ARSample` shares the offset-based resampling principle of DySample; this repository provides the manuscript-specific integration rather than claiming a new sampling principle.
-
-No dataset, pretrained weights, or additional KAGD-Net integration code are included.
